@@ -1,0 +1,8 @@
+renderer/target/
+renderer/.vscode
+scraper/.vscode
+scraper/prod
+scraper/cookies.json
+scraper/courses.json
+scraper/node_modules
+.vscode/

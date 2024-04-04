@@ -1,0 +1,13 @@
+unstable_features = true
+fn_single_line = true
+max_width = 100
+struct_lit_width = 92
+format_macro_matchers = true
+array_width = 80
+single_line_if_else_max_width = 70
+single_line_let_else_max_width = 70
+inline_attribute_width = 92
+imports_granularity = "Crate"
+newline_style = "Unix"
+reorder_impl_items = true
+group_imports = "StdExternalCrate"
